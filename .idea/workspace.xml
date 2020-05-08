@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06632380-f369-4f7e-b120-2bac308cedcd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
       <workItem from="1588950645019" duration="674000" />
       <workItem from="1588951360013" duration="6500000" />
       <workItem from="1588966799284" duration="5762000" />
+      <workItem from="1588974830071" duration="13000" />
     </task>
     <servers />
   </component>
@@ -54,10 +55,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588970903251" />
-    <state x="1071" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1588966799036">
+    <state x="1071" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1588974830008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1071" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588966799036" />
+    <state x="1071" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588974830008" />
     <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1588971805997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
