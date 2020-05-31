@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06632380-f369-4f7e-b120-2bac308cedcd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/broken.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/broken.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/angry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ayat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/breakup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/complain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/first.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/girlfriend.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/happiness.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/heartbeat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ignore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/love.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/need.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/promise.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/questions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/selfish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/separation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sleep.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/special.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/surprise.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waiting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +51,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web Projects\as\css" />
+      <recent name="D:\Web Projects\as\js" />
       <recent name="D:\Web Projects\stories\images" />
     </key>
   </component>
@@ -47,6 +76,7 @@
       <workItem from="1588966799284" duration="5762000" />
       <workItem from="1588974830071" duration="483000" />
       <workItem from="1589092517483" duration="2437000" />
+      <workItem from="1590945796493" duration="377000" />
     </task>
     <servers />
   </component>
